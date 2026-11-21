@@ -1,0 +1,2 @@
+# Sanitoral-Data-Analysis-PowerBI
+Worked on a data analysis and visualization project using MySQL and Power BI.  - Designed and structured a relational database using MySQL. - Organized data into related tables. - Prepared and transformed data for analysis. - Connected the database to Power BI. - Worked on building an interactive dashboard to visualize and explore data.  Tools: MySQL, MySQL Workbench, Power BI, Power Query.
